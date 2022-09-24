@@ -1,3 +1,4 @@
 # VideoGameClass
-Optional group project for creating the Class(es) for a typical video game
+Optional group project for creating the Class(es) for a typical video game.
+
 Current target is Java
